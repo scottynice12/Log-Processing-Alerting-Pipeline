@@ -1,0 +1,6 @@
+INFO: System booted up smoothly
+WARN: High memory threshold reached
+INFO: User admin loaded dashboard
+ERROR: Database connection timeout
+INFO: API request processed in 45ms
+ERROR: Payment gateway unauthorized
